@@ -2,7 +2,7 @@
 
 To use `phpdotenv`, follow these steps:
 
-1. **Create Library folder
+1. **Create Library folder:
     ```
     mkdir -p library/dotenv
     ```
