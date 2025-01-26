@@ -3,9 +3,9 @@
 To use `phpdotenv`, follow these steps:
 
 1. **Create Library folder
-  ```
-  mkdir -p library/dotenv
-  ```
+    ```
+    mkdir -p library/dotenv
+    ```
     
 2. **Install the package** via Composer:
    ```
